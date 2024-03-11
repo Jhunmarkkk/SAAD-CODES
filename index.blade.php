@@ -1,5 +1,6 @@
 @extends('layout.authlayout')
 
+
 @section('content')
 {{-- login --}}
 @include('layout.tenantHeader')
