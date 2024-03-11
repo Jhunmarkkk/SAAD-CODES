@@ -4,6 +4,7 @@
 {{-- login --}}
 @include('layout.tenantHeader')
 
+
 @include('layout.nav')
    <div class="bg-cover bg-no-repeat bg-center py-36" style="background-image: url('https://images.pexels.com/photos/5407074/pexels-photo-5407074.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1')">
         <div class="container">
